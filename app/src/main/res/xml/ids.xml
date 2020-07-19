@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="poll_center_rel" />
+    <item type="id" name="poll_left_rel" />
+    <item type="id" name="poll_right_rel" />
+</resources>
